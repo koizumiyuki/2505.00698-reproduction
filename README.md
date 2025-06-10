@@ -19,7 +19,7 @@ This repository contains the Jupyter notebooks and auxiliary scripts required to
 ```bash
 # 1. Clone repository
 $ git clone https://github.com/koizumiyuki/2505.00698-reproduction
-$ cd 2505.00697-reproduction
+$ cd 2505.00698-reproduction
 
 # 2. Install exact dependencies
 $ pip install -r requirements.txt
