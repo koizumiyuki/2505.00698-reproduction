@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+scipy==1.15.3
+# Optional extras for running notebooks
+jupyterlab>=4.0,<5
+nbconvert>=7.0,<8
