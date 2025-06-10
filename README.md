@@ -45,10 +45,10 @@ Exact pins are in *requirements.txt*.
 If you use this code, please cite both the paper and this repository:
 
 ```bibtex
-@article{koizumi2025faster,
-  title={Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems},
+@article{koizumi2025comprehensive,
+  title={Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation},
   author={Koizumi, Yuki and Wada, Kaito and Mizukami, Wataru and Yoshioka, Nobuyuki},
-  journal={arXiv preprint arXiv:2505.00697},
+  journal={arXiv preprint arXiv:2505.00698},
   year={2025}
 }
 ```
