@@ -1,24 +1,24 @@
-# Reproduction Code for "Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems" (arXiv:2505.00697)
+# Reproduction Code for "Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation" (arXiv:2505.00698)
 
-This repository contains the Jupyter notebooks and auxiliary scripts required to reproduce **Figures 2 & 3** in the pre‑print **Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems** (arXiv:2505.00697).
+This repository contains the Jupyter notebooks and auxiliary scripts required to reproduce **Figures 3, 5, and 8** in the pre‑print **Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation** (arXiv:2505.00698).
 
 ## Repository layout
 
 ```text
 .
 ├── notebooks/              # All Jupyter notebooks used to generate figures
-│   ├── plot_figure2_2505.00697.ipynb
-│   └── plot_figure3_2505.00697.ipynb
+│   ├── plot_figure3_2505.00698.ipynb
+│   └── plot_figure5_2505.00698.ipynb
+│   └── plot_figure8_2505.00698.ipynb
 ├── data/                   # Input datasets (kept small; larger data via Zenodo DOI)
 ├── requirements.txt        # Exact package versions for pip users
-├── LICENSE                 # MIT by default—feel free to change
 ```
 
 ## Quick start ★
 
 ```bash
 # 1. Clone repository
-$ git clone https://github.com/koizumiyuki/2505.00697-reproduction
+$ git clone https://github.com/koizumiyuki/2505.00698-reproduction
 $ cd 2505.00697-reproduction
 
 # 2. Install exact dependencies
