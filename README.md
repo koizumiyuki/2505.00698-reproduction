@@ -1,4 +1,4 @@
-# Reproduction Code for "CHeisenberg-limited Quantum Algorithms for Multiple Observables Estimation" (arXiv:2505.00698)
+# Reproduction Code for "Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation" (arXiv:2505.00698)
 
 This repository contains the Jupyter notebooks and auxiliary scripts required to reproduce **Figures 3, 5, and 8** in the pre‑print **Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation** (arXiv:2505.00698).
 
